@@ -6,4 +6,4 @@ This is a simple readme file
 
 Adding another line to test DIFFTOOL
 
-# Example of adding updates from feature branch
+# Creating a conflict
