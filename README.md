@@ -6,4 +6,4 @@ This is a simple readme file
 
 Adding another line to test DIFFTOOL
 
-# Creating a conflict
+# Creating a conflict #2
